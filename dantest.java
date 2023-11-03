@@ -1,3 +1,3 @@
 public class dantest{
-    fuck
+    System.out.println("Hello");
 }
