@@ -1,3 +1,3 @@
 public class dantest{
-    System.out.println("wh");
+    System.out.println("what");
 }
